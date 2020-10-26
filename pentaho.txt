@@ -1,0 +1,2 @@
+configurando no pentaho
+banco de dados: root senha 123
